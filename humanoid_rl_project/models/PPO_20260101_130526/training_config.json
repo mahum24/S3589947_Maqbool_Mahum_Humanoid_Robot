@@ -1,0 +1,15 @@
+{
+  "algorithm": "PPO",
+  "timestamp": "20260101_130526",
+  "total_timesteps": 900000,
+  "hyperparameters": {
+    "learning_rate": 0.0003,
+    "n_steps": 2048,
+    "batch_size": 64,
+    "n_epochs": 10,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.2,
+    "ent_coef": 0.001,
+    "policy_kwargs": {
+      "activation_fn": 

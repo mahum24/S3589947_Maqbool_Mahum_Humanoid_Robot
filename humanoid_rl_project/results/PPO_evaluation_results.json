@@ -1,0 +1,18 @@
+{
+  "rewards_mean": 53.15059150214684,
+  "rewards_std": 0.1879842389193477,
+  "rewards_min": 52.96186927157625,
+  "rewards_max": 53.436694175858264,
+  "episode_lengths_mean": 13.0,
+  "episode_lengths_std": 0.0,
+  "episode_lengths_min": 13.0,
+  "episode_lengths_max": 13.0,
+  "forward_distances_mean": 0.023596390167311358,
+  "forward_distances_std": 0.0023901932675570417,
+  "forward_distances_min": 0.021753106171190723,
+  "forward_distances_max": 0.02830698662809406,
+  "energy_efficiency_mean": 0.0018151067963234281,
+  "energy_efficiency_std": 0.00018386100643815647,
+  "energy_efficiency_min": 0.0016733157306057687,
+  "energy_efficiency_max": 0.0021774603423564396
+}

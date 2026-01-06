@@ -1,0 +1,19 @@
+# requirements.txt
+gymnasium[box2d]
+stable-baselines3[extra]
+torch
+numpy
+matplotlib
+opencv-python
+tensorboard
+
+# Install required packages
+pip install imageio[ffmpeg]
+pip install opencv-python  # Alternative for video saving
+pip install Pillow  # For image resizing
+
+# On macOS, also install ffmpeg via Homebrew:
+brew install ffmpeg
+
+# On Ubuntu/Debian:
+sudo apt-get install ffmpeg
