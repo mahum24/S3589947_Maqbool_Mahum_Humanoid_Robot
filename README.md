@@ -47,13 +47,13 @@ pip install --upgrade pip
 
 ### 3. Run the Project
 ```bash
-python humanoid_rl_project.py
+python S3589947_Maqbool_Mahum_humanoid_robot.py
 ```
 
 ## 📁 Project Structure
 ```
 humanoid_rl_project/
-├── humanoid_rl_project.py                 # Main training script
+├── S3589947_Maqbool_Mahum_humanoid_robot.py # Main  script
 ├── requirements.txt                       # Python dependencies
 ├── logs/                                  # TensorBoard logs (auto-created)
 │   └── [algorithm_name]/                  # Algorithm-specific logs
@@ -73,7 +73,7 @@ humanoid_rl_project/
 
 ### Running the Project
 ```bash
-python humanoid_rl_project.py
+python S3589947_Maqbool_Mahum_humanoid_robot.py
 ```
 
 One starting script have several options:
